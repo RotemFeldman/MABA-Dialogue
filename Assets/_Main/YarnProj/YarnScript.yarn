@@ -1,0 +1,66 @@
+﻿title: Scene1
+---
+<<speak Char2>>
+Solomon : It is pleasant to meet you, Cadet Julian Reynard. 
+Solomon : I am Captain Solomon Kartik, the high commander of the Athena Military Academy.
+<<speak Char1>>
+Julian : Oh.. that is quite a surprise, sir. I did not expect anyone from the academy to come in person.
+<<speak Char2>>
+Solomon :  Your commanders at the training facility recognized your talent, and had asked for a better suite for you.
+Solomon : Chin up, cadet, this is a great opportunity for you.
+<<speak Char1>> 
+Julian : Yes, sir! The exams were quite easy, but I did not expect the academy to reach me so early. 
+Julian : To be honest, I expected it at [i]some point[/i], but this is a happy surprise.
+<<speak Char2>>
+Solomon : Be proud of your accomplishments, cadet. I foresee a bright future for you.
+===
+
+title: Scene2
+---
+<<speak Char1>>
+Julian : Why do you always act as if you are better than me, Argent? 
+Julian : Just because I did not come from a wealthy family like yours, does not mean I am not your equal.
+<<speak Char2>>
+Argent : Ohh… Poor Reynard has the guts to face the Barca family? I do admire your conviction, but you [i]should[/i] know your place.
+Argent : The fact you joined from the basic training instead of the proper channels is a farce!
+<<speak Char1>>
+Julian : I have shown my worth, Argent. It is not a mistake I have reached the academy, so you better cease your constant bickering and prove yourself.
+<<speak Char2>>
+Argent : As if i owe you anything, Reynard. And, [i]do not[/i] call me by my first name. It is a disgrace to my family that a tainted person like you attempt to rise above your station.
+Argent : If you think yourself worthy of such praise, then we should put this to the challenge.
+<<speak Char1>>
+Julian : Fine by me. What did you have in mind?
+<<speak Char2>>
+Argent : A battlefront duel, tomorrow at dawn. Just make sure you have contingencies, in case of your utter devastation. It would be sad to see you go.
+<<speak Char1>>
+Julian : I will see you then, [i]Argent[/i].
+===
+
+title: Scene3
+---
+
+<<speak Char2>>
+Solomon: The finals are approaching, Julian, where do you stand with it?
+<<speak Char1>>
+Julian : I am on track, sir. Argent had proven to be a competent foe, but we have come to terms now. I am as ready as I have ever been.
+<<speak Char2>>
+Solomon: Tell me, please, do you know what the final exams are, in the Athen Academy?
+<<speak Char1>> 
+Julian : No, sir. I have not heard about the content of the finals.
+<<speak Char2>>
+Solomon: It would be a shame if you are not fully and well prepared for them. Each of your commanding officers will face a cadet of their choice in a battlefield tactics simulation.
+Solomon: Only if the cadet can win the battle, can they graduate from the academy.
+<<speak Char1>>
+Julian : Which of the officers chose me, then?
+<<speak Char2>>
+Solomon : I have, Julian. Yours will be the toughest challenge of all your peers. I do not want you to assume I will go easy on you.
+Solomon : So you will have to give it your all, unless you want to fail and stay for another year in the academy.
+<<speak Char1>>
+Julian : You?!
+<<speak Char2>>
+Solomon : Was I not clear?
+<<speak Char1>>
+Julian : You were, sir. This is surprising nonetheless. I will do my best, sir! I have to.
+<<speak Char2>>
+Solomon : Then I will expect no less from you.
+===
