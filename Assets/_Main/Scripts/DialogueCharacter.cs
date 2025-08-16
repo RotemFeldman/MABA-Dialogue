@@ -17,6 +17,6 @@ public class DialogueCharacter : MonoBehaviour
     public void Speak()
     {
         selfChar.color = Color.white;
-        otherChar.color = new Color(0.5f, 0.5f, 0.5f, 1f);
+        otherChar.color = new Color(0.4f, 0.4f, 0.4f, 1f);
     }
 }
